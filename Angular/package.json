@@ -54,7 +54,7 @@
     "karma-safari-launcher": "~1.0.0",
     "karma-webpack": "~2.0.3",
     "protractor": "^5.4.0",
-    "snyk": "^1.130.0",
+    "snyk": "^1.1024.0",
     "ts-node": "~3.1.0",
     "tslint": "^5.4.3",
     "typescript": "3.1.1"
